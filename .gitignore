@@ -1,0 +1,30 @@
+# Build and output directories
+/out/
+/target/
+/.project
+.bsp/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IntelliJ files
+*.iml
+
+# Mill files
+.mill-*
+
+# Compiled classes and jars
+*.class
+*.jar
+
+# Dependencies
+lib/
