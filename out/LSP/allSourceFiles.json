@@ -1,0 +1,10 @@
+{
+    "value": [
+        "ref:v0:9d466eab:C:\\Users\\nogga\\IdeaProjects\\LSP\\LSP\\src\\MyLanguageServer.scala",
+        "ref:v0:3dabc854:C:\\Users\\nogga\\IdeaProjects\\LSP\\LSP\\src\\MyLanguageServerLauncher.scala",
+        "ref:v0:8d10383e:C:\\Users\\nogga\\IdeaProjects\\LSP\\LSP\\src\\MyTextDocumentService.scala",
+        "ref:v0:718619fc:C:\\Users\\nogga\\IdeaProjects\\LSP\\LSP\\src\\MyWorkspaceService.scala"
+    ],
+    "valueHash": 1647026201,
+    "inputsHash": -297234401
+}

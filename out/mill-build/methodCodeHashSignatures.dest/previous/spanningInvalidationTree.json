@@ -1,0 +1,16 @@
+{
+  "def build_.package_$LSP$.$anonfun$ivyDeps$3()mill.api.AggWrapper$Agg": {
+    "call build_.package_$LSP$.$anonfun$ivyDeps$3()mill.api.AggWrapper$Agg": {
+      "def build_.package_$LSP$.$anonfun$ivyDeps$2(scala.collection.immutable.Seq,mill.api.Ctx)mill.api.Result": {
+        "call build_.package_$LSP$.$anonfun$ivyDeps$2(scala.collection.immutable.Seq,mill.api.Ctx)mill.api.Result": {
+          "def build_.package_$LSP$.$anonfun$ivyDeps$1(build_.package_$LSP$)mill.define.TargetImpl": {
+            "call build_.package_$LSP$.$anonfun$ivyDeps$1(build_.package_$LSP$)mill.define.TargetImpl": {
+              "def build_.package_$LSP$#ivyDeps()mill.define.Target": {}
+            }
+          }
+        }
+      },
+      "def build_.package_$LSP$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object": {}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "value": [
+        "qref:v1:affe46f9:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\json4s\\json4s-native_2.13\\4.1.0-M8\\json4s-native_2.13-4.1.0-M8.jar",
+        "qref:v1:38287fd3:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\eclipse\\lsp4j\\org.eclipse.lsp4j\\0.23.1\\org.eclipse.lsp4j-0.23.1.jar",
+        "qref:v1:d4adc3e2:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\io\\circe\\circe-core_2.13\\0.15.0-M1\\circe-core_2.13-0.15.0-M1.jar",
+        "qref:v1:40eeec4d:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\io\\circe\\circe-generic_2.13\\0.15.0-M1\\circe-generic_2.13-0.15.0-M1.jar",
+        "qref:v1:c4e8a5c3:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\io\\circe\\circe-parser_2.13\\0.15.0-M1\\circe-parser_2.13-0.15.0-M1.jar",
+        "qref:v1:12ee44a8:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.16\\scala-library-2.13.16.jar",
+        "qref:v1:adf84e64:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\json4s\\json4s-core_2.13\\4.1.0-M8\\json4s-core_2.13-4.1.0-M8.jar",
+        "qref:v1:b886492e:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\json4s\\json4s-native-core_2.13\\4.1.0-M8\\json4s-native-core_2.13-4.1.0-M8.jar",
+        "qref:v1:c8d5fd4b:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\eclipse\\lsp4j\\org.eclipse.lsp4j.jsonrpc\\0.23.1\\org.eclipse.lsp4j.jsonrpc-0.23.1.jar",
+        "qref:v1:36485240:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\io\\circe\\circe-numbers_2.13\\0.15.0-M1\\circe-numbers_2.13-0.15.0-M1.jar",
+        "qref:v1:6efee8a4:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\cats-core_2.13\\2.6.1\\cats-core_2.13-2.6.1.jar",
+        "qref:v1:d62c7480:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\chuusai\\shapeless_2.13\\2.3.7\\shapeless_2.13-2.3.7.jar",
+        "qref:v1:81a63cb7:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\io\\circe\\circe-jawn_2.13\\0.15.0-M1\\circe-jawn_2.13-0.15.0-M1.jar",
+        "qref:v1:38ca3e36:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\json4s\\json4s-ast_2.13\\4.1.0-M8\\json4s-ast_2.13-4.1.0-M8.jar",
+        "qref:v1:34eb8c2b:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\json4s\\json4s-scalap_2.13\\4.1.0-M8\\json4s-scalap_2.13-4.1.0-M8.jar",
+        "qref:v1:a08fa57b:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\code\\gson\\gson\\2.12.1\\gson-2.12.1.jar",
+        "qref:v1:05ea719f:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\cats-kernel_2.13\\2.6.1\\cats-kernel_2.13-2.6.1.jar",
+        "qref:v1:f0d69551:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\simulacrum-scalafix-annotations_2.13\\0.5.4\\simulacrum-scalafix-annotations_2.13-0.5.4.jar",
+        "qref:v1:6c820eb7:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\typelevel\\jawn-parser_2.13\\1.2.0\\jawn-parser_2.13-1.2.0.jar",
+        "qref:v1:9f8f9551:C:\\Users\\nogga\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\google\\errorprone\\error_prone_annotations\\2.36.0\\error_prone_annotations-2.36.0.jar",
+        "ref:v0:c984eca8:C:\\Users\\nogga\\IdeaProjects\\LSP\\LSP\\compile-resources",
+        "ref:v0:bd96927b:C:\\Users\\nogga\\IdeaProjects\\LSP\\LSP\\resources",
+        "ref:v0:7f8d63cd:C:\\Users\\nogga\\IdeaProjects\\LSP\\out\\LSP\\compile.dest\\classes"
+    ],
+    "valueHash": -218201753,
+    "inputsHash": -1984046355
+}

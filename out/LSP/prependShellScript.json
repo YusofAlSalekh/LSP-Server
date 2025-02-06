@@ -1,0 +1,5 @@
+{
+    "value": "@ 2>/dev/null # 2>nul & echo off & goto BOF\r\n:\nexec java  $JAVA_OPTS -cp \"$0\" 'MyLanguageServerLauncher' \"$@\"\nexit\n\r\n:BOF\r\nsetlocal\r\n@echo off\r\njava  %JAVA_OPTS% -cp \"%~dpnx0\" MyLanguageServerLauncher %*\r\nendlocal\r\nexit /B %errorlevel%\r\n",
+    "valueHash": 504377165,
+    "inputsHash": -917639820
+}

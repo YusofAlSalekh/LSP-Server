@@ -1,0 +1,26 @@
+{
+    "value": [
+        "ref:v0:311116d1:C:\\Users\\nogga\\IdeaProjects\\LSP\\.bsp\\mill-bsp.json",
+        {
+            "name": "mill-bsp",
+            "argv": [
+                "C:\\Program Files (x86)\\mill\\mill.bat",
+                "--bsp",
+                "--disable-ticker",
+                "--color",
+                "false",
+                "--jobs",
+                "1"
+            ],
+            "millVersion": "0.12.5",
+            "bspVersion": "2.2.0-M2",
+            "languages": [
+                "java",
+                "scala",
+                "kotlin"
+            ]
+        }
+    ],
+    "valueHash": -100631126,
+    "inputsHash": 578961809
+}

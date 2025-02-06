@@ -1,0 +1,33 @@
+<module type="JAVA_MODULE" version="4">
+    <component name="NewModuleRootManager">
+        <output url="file://$MODULE_DIR$/../../out/LSP/ideaCompileOutput.dest/classes"/>
+        <exclude-output/>
+        <content url="file://$MODULE_DIR$/../../LSP">
+            <sourceFolder url="file://$MODULE_DIR$/../../LSP/src" isTestSource="false"/>
+            <sourceFolder url="file://$MODULE_DIR$/../../LSP/resources" type="java-resource"/>
+        </content>
+        <orderEntry type="inheritedJdk"/>
+        <orderEntry type="sourceFolder" forTests="false"/>
+        <orderEntry type="library" name="scala-SDK-2.13.16" level="project"/>
+        <orderEntry type="library" name="cats-core_2.13-2.6.1.jar" level="project"/>
+        <orderEntry type="library" name="cats-kernel_2.13-2.6.1.jar" level="project"/>
+        <orderEntry type="library" name="circe-core_2.13-0.15.0-M1.jar" level="project"/>
+        <orderEntry type="library" name="circe-generic_2.13-0.15.0-M1.jar" level="project"/>
+        <orderEntry type="library" name="circe-jawn_2.13-0.15.0-M1.jar" level="project"/>
+        <orderEntry type="library" name="circe-numbers_2.13-0.15.0-M1.jar" level="project"/>
+        <orderEntry type="library" name="circe-parser_2.13-0.15.0-M1.jar" level="project"/>
+        <orderEntry type="library" name="error_prone_annotations-2.36.0.jar" level="project"/>
+        <orderEntry type="library" name="gson-2.12.1.jar" level="project"/>
+        <orderEntry type="library" name="jawn-parser_2.13-1.2.0.jar" level="project"/>
+        <orderEntry type="library" name="json4s-ast_2.13-4.1.0-M8.jar" level="project"/>
+        <orderEntry type="library" name="json4s-core_2.13-4.1.0-M8.jar" level="project"/>
+        <orderEntry type="library" name="json4s-native-core_2.13-4.1.0-M8.jar" level="project"/>
+        <orderEntry type="library" name="json4s-native_2.13-4.1.0-M8.jar" level="project"/>
+        <orderEntry type="library" name="json4s-scalap_2.13-4.1.0-M8.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.lsp4j-0.23.1.jar" level="project"/>
+        <orderEntry type="library" name="org.eclipse.lsp4j.jsonrpc-0.23.1.jar" level="project"/>
+        <orderEntry type="library" name="scala-library-2.13.16.jar" level="project"/>
+        <orderEntry type="library" name="shapeless_2.13-2.3.7.jar" level="project"/>
+        <orderEntry type="library" name="simulacrum-scalafix-annotations_2.13-0.5.4.jar" level="project"/>
+    </component>
+</module>
